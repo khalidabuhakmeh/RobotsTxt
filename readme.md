@@ -24,3 +24,5 @@ That's it! Your environment specific `robots.txt` should be served accordingly.
 Also follow me on GitHub and on [Twitter](https://twitter.com/buhakmeh).
 
 Cheers :)
+
+Remember to #Hacktoberfest
